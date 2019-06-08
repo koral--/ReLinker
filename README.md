@@ -126,6 +126,15 @@ See the sample application under `sample/` for a quick demo.
 
 Special thanks to [Jeff Young](https://github.com/tenoversix) for the awesome logo!
 
+## Fork
+
+This fork exists only as a workaround for [publication issue](https://github.com/KeepSafe/ReLinker/issues/60). 
+Source code is the same as in version 1.3.1 in the parent repo. Modifications involves only maven publication configuration.
+Fork dependency coordinates:
+```Gradle
+    compile 'pl.droidsonroids.relinker:relinker:1.3.1'
+```
+
 ## License
 
     Copyright 2015 - 2016 Keepsafe Software Inc.
