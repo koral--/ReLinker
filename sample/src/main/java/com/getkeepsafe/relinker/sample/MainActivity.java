@@ -9,9 +9,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.getkeepsafe.relinker.ReLinker;
-import com.getkeepsafe.relinker.elf.Elf;
-import com.getkeepsafe.relinker.elf.ElfParser;
+import pl.droidsonroids.relinker.ReLinker;
+import pl.droidsonroids.relinker.elf.Elf;
+import pl.droidsonroids.relinker.elf.ElfParser;
 
 import java.io.DataOutputStream;
 import java.io.File;

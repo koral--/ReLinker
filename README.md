@@ -45,7 +45,7 @@ ReLinker is distributed using [jcenter](https://bintray.com/keepsafesoftware/And
    }
    
    dependencies {
-         compile 'com.getkeepsafe.relinker:relinker:1.3.1'
+         compile 'pl.droidsonroids.relinker:relinker:1.3.1'
    }
 ```
 
@@ -129,10 +129,10 @@ Special thanks to [Jeff Young](https://github.com/tenoversix) for the awesome lo
 ## Fork
 
 This fork exists only as a workaround for [publication issue](https://github.com/KeepSafe/ReLinker/issues/60). 
-Source code is the same as in version 1.3.1 in the parent repo. Modifications involves only maven publication configuration.
+Source code is the same as for version 1.3.1 in the parent repo. Modifications involves only maven coordinates and package name.
 Fork dependency coordinates:
 ```Gradle
-    compile 'pl.droidsonroids.relinker:relinker:1.3.1'
+    compile 'pl.droidsonroids:relinker:1.3.1'
 ```
 
 ## License

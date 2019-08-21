@@ -1,4 +1,4 @@
-package com.getkeepsafe.relinker;
+package pl.droidsonroids.relinker;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;

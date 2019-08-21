@@ -1,4 +1,4 @@
-package com.getkeepsafe.relinker.elf;
+package pl.droidsonroids.relinker.elf;
 
 import org.junit.After;
 import org.junit.Test;
